@@ -153,6 +153,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
         ),
       ),
     );
+
     return Scaffold(
       backgroundColor: Colors.white,
       body: SingleChildScrollView(
@@ -240,6 +241,5 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
         ),
       ),
     );
-    ;
   }
 }
