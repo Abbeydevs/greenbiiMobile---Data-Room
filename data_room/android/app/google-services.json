@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087259856127",
+    "project_id": "data-room---greenbii",
+    "storage_bucket": "data-room---greenbii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087259856127:android:b5feb6cbbc85b7266b50ca",
+        "android_client_info": {
+          "package_name": "com.greenbii.data_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087259856127-rmgq83p9svcmslqaj9g1hdhl51qb74mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenbii.data_room",
+            "certificate_hash": "d4e5cc78a4d4dc5a6ace05a95bc56a03eaa81577"
+          }
+        },
+        {
+          "client_id": "1087259856127-vq4du7501ingh513bhihdj376hllobl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWe6vqbrjxZC16rPTlwvxCs9qWYWbU9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087259856127-vq4du7501ingh513bhihdj376hllobl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
