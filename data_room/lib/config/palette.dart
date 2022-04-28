@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class Palatte {
   static const MaterialColor kToDark = MaterialColor(
-    0xff299150, //0%
+    0xff299150, //0% This will be the default color if color is not selected manually
     <int, Color>{
       50: Color(0xff258348), //10%
       100: Color(0xff217440), //20%
